@@ -1,0 +1,15 @@
+.country-details-sec{
+    border: none;
+    margin-top: 50px;
+}
+.country-details-sec img{
+    width: 50%;
+    margin: 0 auto;
+}
+.header-manu{
+    font-size: 26px;
+    float: left;
+}
+.header-manu:hover{
+    text-decoration: underline;
+}

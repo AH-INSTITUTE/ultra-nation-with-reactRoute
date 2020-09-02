@@ -1,0 +1,18 @@
+.card-style{
+    transition: all 0.5s;
+    padding: 10px 0 0 0; 
+    box-sizing: border-box;
+}
+.card-style:hover{
+    box-shadow: 0px 0px 8px #615e5e;
+}
+.card-style img{
+    width: 50%;
+    margin: 0 auto;
+
+}
+.country-name{
+    text-shadow: 0px 0px 1px #6e6e6e;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
